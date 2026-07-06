@@ -10,7 +10,7 @@ A pixel-focused front-end clone of the [cdnjs.com](https://cdnjs.com) homepage, 
 ## 📸 Preview
  
 > Add a screenshot of the page here, e.g.
-> `![Preview](Screenshot 2026-07-06 094341.png)`
+> `![Preview](./Screenshot 2026-07-06 094341.png)`
  
 ## ✨ Features
  
