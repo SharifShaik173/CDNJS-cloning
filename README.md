@@ -4,13 +4,11 @@ A pixel-focused front-end clone of the [cdnjs.com](https://cdnjs.com) homepage, 
  
 ## 🔗 Live Preview
  
-> Add your GitHub Pages link here once deployed, e.g.
-> `https://sharifshaik173.github.io/CDNJS-cloning/`
+>'https://sharifshaik173.github.io/CDNJS-cloning/'
  
 ## 📸 Preview
  
-> Add a screenshot of the page here, e.g.
-> `![Preview](./Screenshot 2026-07-06 094341.png)`
+> ![Preview](./Screenshot.png)
  
 ## ✨ Features
  
