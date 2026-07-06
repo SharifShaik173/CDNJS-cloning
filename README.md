@@ -5,7 +5,7 @@ A pixel-focused front-end clone of the [cdnjs.com](https://cdnjs.com) homepage, 
 ## 🔗 Live Preview
  
 > Add your GitHub Pages link here once deployed, e.g.
-> `https://<your-username>.github.io/<repo-name>/`
+> `https://sharifshaik173.github.io/CDNJS-cloning/`
  
 ## 📸 Preview
  
