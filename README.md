@@ -1,4 +1,4 @@
-# CDNJS Landing Page Clone
+## CDNJS Landing Page Clone
  
 A pixel-focused front-end clone of the [cdnjs.com](https://cdnjs.com) homepage, built with plain HTML5 and CSS3. It recreates the animated hero background, sticky navigation bar, hero search section, support banner, and multi-column footer.
  
